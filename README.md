@@ -1,1 +1,2 @@
-# FutureTrade.us
+# FutureTrade
+https://futuretrade.us/
